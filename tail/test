@@ -1,0 +1,16 @@
+SEX(6)                         BSD Games Manual                         SEX(6)
+
+NNAAMMEE
+     SSeexx -- spout silly, random porn-like text
+
+SSYYNNOOPPSSIISS
+     sseexx [--ww [_w_i_d_t_h]]
+
+DDEESSCCRRIIPPTTIIOONN
+     sseexx spouts a silly mad-lib-like random porn-style text.  Wraps text, optionally at
+     _w_i_d_t_h , if --ww is used.
+
+AAUUTTHHOORR
+     Unknown. Adopted and cleaned up by Nick Johnson <freebsd@spatula.net>.
+
+BSD                              26 April 2001                             BSD
